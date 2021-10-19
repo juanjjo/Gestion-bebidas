@@ -23,7 +23,10 @@
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
 ## Description
-
+Proyecto hecho con NestJS
+Patrones de diseño utilizados: mvc, services , DTO, repository
+BD: Postgres , ORM : Typeorm, 
+se implementa swagger para documentar las apis.
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
 ## Config Global
